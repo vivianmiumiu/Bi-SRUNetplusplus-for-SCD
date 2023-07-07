@@ -1,6 +1,5 @@
 # Bi-SRUNetplusplus-for-SCD
-# Bi-SRNetUNet++ is based on the improvement of Bi-SRNetNet (Pytorch codes of 'Bi-Temporal Semantic Reasoning for the Semantic Change Detection in HR Remote Sensing Images' [[paper]])(https://ieeexplore.ieee.org/document/9721305)
-
+Bi-SRUNetplusplus is a new method for multi-task change detection based on semantic change detection which achieves accuracy improvement by changing the backbone network.
 
 **Data preparation:**
 1. Split the SCD data into training, validation and testing (if available) set and organize them as follows:
