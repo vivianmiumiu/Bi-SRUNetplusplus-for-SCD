@@ -1,5 +1,5 @@
 # Bi-SRUNetplusplus-for-SCD
-# Bi-SRNetUNet++ is based on the improvement of Bi-SRNetNet (Pytorch codes of 'Bi-Temporal Semantic Reasoning for the Semantic Change Detection in HR Remote Sensing Images' [[paper]](https://ieeexplore.ieee.org/document/9721305)
+# Bi-SRNetUNet++ is based on the improvement of Bi-SRNetNet (Pytorch codes of 'Bi-Temporal Semantic Reasoning for the Semantic Change Detection in HR Remote Sensing Images' [[paper]])(https://ieeexplore.ieee.org/document/9721305)
 
 
 **Data preparation:**
